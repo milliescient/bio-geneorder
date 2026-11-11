@@ -2,9 +2,9 @@
 # BioPerl module for Bio::GeneOrder
 #
 #	Based on code written by Dennis Lavrov
-#	Adapted for Bioperl by Walker Pett
+#	Adapted for Bioperl by June Walker
 #
-# Copyright Dennis Lavrov, Walker Pett
+# Copyright Dennis Lavrov, June Walker
 #
 # You may distribute this module under the same terms as perl itself
 
@@ -108,7 +108,7 @@ web:
 
 =head1 AUTHORS
 
-Walker Pett, Dennis Lavrov
+June Walker, Dennis Lavrov
 
 =head1 APPENDIX
 

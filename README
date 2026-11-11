@@ -9,7 +9,7 @@ The Distance module provides functions for computing genomic distances between g
 For questions or suggestions, contact:
 
 Dennis Lavrov <dlavrov@iastate.edu>
-Walker Pett <will.pett@gmail.com>
+June Walker <milliescient@gmail.com>
 
 REQUIREMENTS
 
@@ -49,7 +49,7 @@ You can also look for information at:
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2009 Dennis Lavrov, Walker Pett
+Copyright (C) 2009 Dennis Lavrov, June Walker
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
